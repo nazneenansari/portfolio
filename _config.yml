@@ -1,22 +1,21 @@
-title: <p> Nazneen Ansari </p>
-logo: /assets/img/my_pic.jpg
+title: <h1 align="center">Nazneen Ansari</h1>
+# logo: /assets/img/my_pic.jpg
+image: "https://raw.githubusercontent.com/nazneenansari/portfolio/refs/heads/main/asset/img/my_pic.jpg"
+img_style: "width: 50%; border: 2px solid red;"
 
 description:
-  <p>
-  <a href="https://www.linkedin.com/in/nazneen-ansari">LinkedIn</a> |
-  <a href="https://github.com/nazneenansari">GitHub</a>
-  
-  <br>   
-  Specialized in designing and delivering scalable,
-  innovative solutions. Strong technical expertise in Data Analytics, Cloud Architecture, 
-  Microservices, and Enterprise Systems, combined with a deep understanding 
-  of business processes and financial systems. Proficient in leveraging 
-  data science and AI/ML technologies to derive actionable insights, optimize operations, 
-  and enhance system performance. Committed to driving digital transformations and 
-  delivering impactful solutions that align with business goals.
-  <br>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nazneen-ansari">LinkedIn</a> |
+    <a href="https://github.com/nazneenansari">GitHub</a>
+  </p>  
+  <p align="justify">
+    Specialized in designing and delivering scalable,
+    innovative solutions. Strong technical expertise in Data Analytics, Cloud Architecture, 
+    Microservices, and Enterprise Systems, combined with a deep understanding 
+    of business processes and financial systems. Proficient in leveraging 
+    data science and AI/ML technologies to derive actionable insights, optimize operations, 
+    and enhance system performance. Committed to driving digital transformations and 
+    delivering impactful solutions that align with business goals.
   </p>
-
-
 
 theme: jekyll-theme-minimal
