@@ -1,5 +1,7 @@
-# Data Science Portfolio
----
+## Exploratory Data Analysis (EDA)
+
+## NLP
+
 ## Machine learning
 
 ### Fraud Detection
