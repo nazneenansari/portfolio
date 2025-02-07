@@ -33,7 +33,7 @@ The lending company offers personal, business, and medical loans through a fast 
 
 ### Melanoma - Skin Cancer Detection Using CNN
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]https://github.com/nazneenansari/MelanomaDetection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nazneenansari/MelanomaDetection)
 
 ### Sentiment Based Product Recommendation
 
