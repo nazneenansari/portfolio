@@ -1,15 +1,7 @@
-title: <p align="center">Nazneen Ansari</p>
+title: Nazneen Ansari
 logo: "https://raw.githubusercontent.com/nazneenansari/portfolio/refs/heads/main/assets/images/my_pic.png"
-logo_style:
-  width: "100px"
-  height: "100px"
-  border_radius: "50%"
-  display: "block"
-  margin: "0 auto"
-  text_align: "center"
-
 description:
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/nazneen-ansari">LinkedIn</a> |
     <a href="https://github.com/nazneenansari">GitHub</a>
   </p>  
